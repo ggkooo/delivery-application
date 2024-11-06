@@ -1,6 +1,6 @@
 # Aplicação Web para deliverys
 
-
+<img src="https://giordanoberwig.chronoslab.com.br/projects/menu-online/imagem-projeto.png" alt="Imagem do projeto">
 
 Este projeto consiste no desenvolvimento de um aplicativo web, o qual serve para realizar pedidos de forma dinâmica. Abaixo irei detalhar um pouco mais como foi realizado o desenvolvimento.
 
